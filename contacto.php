@@ -1,0 +1,443 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+
+	<!-- Basic -->
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+	<title>Seguros Proteges</title>
+
+	<meta name="keywords" content="Seguros, automovil, casas, hogar, salud" />
+	<meta name="description" content="Proteges Asesores">
+
+	<!-- Favicon -->
+	<link rel="shortcut icon" href="imgs/favicon.ico" type="image/x-icon" />
+	<link rel="apple-touch-icon" href="imgs/apple-touch-icon.png">
+
+	<!-- Mobile Metas -->
+	<meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1.0, shrink-to-fit=no">
+
+	<!-- Web Fonts  -->
+	<link id="googleFonts" href="https://fonts.googleapis.com/css?family=Poppins:300,400,500,600,700,800%7CPlayfair+Display:400&display=swap" rel="stylesheet" type="text/css">
+	<link rel="stylesheet" href="https://use.fontawesome.com/releases/v6.1.1/css/all.css" integrity="sha384-/frq1SRXYH/bSyou/HUp/hib7RVN1TawQYja658FEOodR/FQBKVqT9Ol+Oz3Olq5" crossorigin="anonymous">
+
+
+	<!-- Vendor CSS -->
+	<link rel="stylesheet" href="vendor/bootstrap/css/bootstrap.min.css">
+	<link rel="stylesheet" href="vendor/animate/animate.compat.css">
+	<link rel="stylesheet" href="vendor/simple-line-icons/css/simple-line-icons.min.css">
+	<link rel="stylesheet" href="vendor/owl.carousel/assets/owl.carousel.min.css">
+	<link rel="stylesheet" href="vendor/owl.carousel/assets/owl.theme.default.min.css">
+	<link rel="stylesheet" href="vendor/magnific-popup/magnific-popup.min.css">
+
+	<!-- Theme CSS -->
+	<link rel="stylesheet" href="css/theme.css">
+	<link rel="stylesheet" href="css/theme-elements.css">
+	<link rel="stylesheet" href="css/theme-blog.css">
+	<link rel="stylesheet" href="css/theme-shop.css">
+
+	<!-- Demo CSS -->
+	<link rel="stylesheet" href="css/proteges.css">
+
+	<!-- Skin CSS -->
+	<link id="skinCSS" rel="stylesheet" href="css/skins/skin-insurance.css">
+
+	<!-- Theme Custom CSS -->
+	<link rel="stylesheet" href="css/custom.css">
+
+	<!-- Head Libs -->
+	<script src="vendor/modernizr/modernizr.min.js"></script>
+
+</head>
+
+<body>
+
+	<div class="body">
+		<header id="header" data-plugin-options="{'stickyEnabled': true, 'stickyEnableOnBoxed': true, 'stickyEnableOnMobile': false, 'stickyStartAt': 70, 'stickySetTop': '-70px', 'stickyChangeLogo': true}">
+			<div class="header-body border-0 box-shadow-none">
+				<div class="header-container container">
+					<div class="header-row py-2">
+						<div class="header-column">
+							<div class="header-row">
+								<div class="header-logo mb-1 mt-2 ps-4">
+									<a href="index.html">
+										<img alt="Proteges" width="123" height="46" src="imgs/logo.png">
+									</a>
+								</div>
+							</div>
+						</div>
+						<div class="header-column justify-content-end align-items-center flex-row">
+							<ul class="header-social-icons social-icons social-icons-clean social-icons-icon-dark social-icons-medium me-2 mb-0 d-none d-sm-block">
+								<li class="social-icons-instagram">
+									<a href="http://www.instagram.com/" target="_blank" title="Instagram"><i class="fab fa-instagram"></i></a>
+								</li>
+								<li class="social-icons-twitter">
+									<a href="http://www.twitter.com/" target="_blank" title="Twitter"><i class="fab fa-twitter"></i></a>
+								</li>
+								<li class="social-icons-facebook">
+									<a href="http://www.facebook.com/" target="_blank" title="Facebook"><i class="fab fa-facebook-f"></i></a>
+								</li>
+							</ul>
+							<div class="header-nav-features">
+								<a href="tel:0123456789" class="d-flex align-items-center text-decoration-none text-color-dark text-color-hover-primary font-weight-semibold ms-1 me-3">
+									<i class="fa-solid fa-phone text-muted me-2"></i> 686 248 9684
+								</a>
+							</div>
+						</div>
+					</div>
+				</div>
+				<div class="header-nav-bar z-index-0">
+					<div class="container">
+						<div class="header-row">
+							<div class="header-column">
+								<div class="header-row align-items-center justify-content-end">
+									<div class="header-nav header-nav-links justify-content-start mb-3">
+										<div class="header-nav-main header-nav-main-text-capitalize header-nav-main-effect-2 header-nav-main-sub-effect-1">
+											<nav class="collapse">
+												<ul class="nav nav-pills" id="mainNav">
+													<li>
+														<a class="nav-link active" href="index.html">
+															Inicio
+														</a>
+													</li>
+													<li>
+														<a class="nav-link" href="index.html#acerca">
+															Acerca
+														</a>
+													</li>
+													<li class="dropdown">
+														<a class="dropdown-item dropdown-toggle" href="#">
+															Servicios
+														</a>
+														<ul class="dropdown-menu">
+															<li><a class="dropdown-item" href="auto.html">Automóvil</a>
+															</li>
+															<li><a class="dropdown-item" href="gmm.html">Gastos
+																	médicos</a></li>
+															<li><a class="dropdown-item" href="vida.html">Vida</a></li>
+															<li><a class="dropdown-item" href="hogar.html">Hogar</a>
+															</li>
+														</ul>
+													</li>
+													<li>
+														<a class="nav-link" href="index.html#faq">
+															FAQ
+														</a>
+													</li>
+													<li>
+														<a class="nav-link" href="index.html#oficinas">
+															Oficinas
+														</a>
+													</li>
+													<li>
+														<a class="nav-link" href="contacto.html">
+															Contacto
+														</a>
+													</li>
+												</ul>
+											</nav>
+										</div>
+									</div>
+									<a href="tel:6862489684" class="position-relative top-5 btn btn-outline btn-rounded btn-secondary text-2 font-weight-bold text-uppercase px-5 btn-py-2 mb-3">Whatsapp</a>
+									<button class="btn header-btn-collapse-nav" data-bs-toggle="collapse" data-bs-target=".header-nav-main nav">
+										<i class="fas fa-bars"></i>
+									</button>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</header>
+
+		<div role="main" class="main">
+
+			<section class="page-header page-header-modern section position-relative border-0 m-0" style="background-image: url(imgs/backgrounds/background-contacto.jpg); background-position: center; background-size: cover;">
+				<div class="container position-relative pb-5 mb-5">
+					<div class="row text-center text-md-start py-2">
+						<div class="col p-relative bottom-5">
+
+						</div>
+					</div>
+				</div>
+			</section>
+
+
+
+			<section class="section bg-transparent position-relative border-0 p-0">
+				<div class="container custom-container-background custom-z-index-1 py-0">
+					<div class="row pt-4">
+						<div class="col-lg-6">
+							<h2 class="font-weight-bold text-8 mt-2 mb-0">Formulario de contacto</h2>
+							<p class="mb-4">Envía tus dudas y pronto nos pondemos en contacto contigo.</p>
+							<form class="contact-form" action="php/contact-form.php" method="POST">
+								<div class="contact-form-success alert alert-success d-none mt-4">
+									<strong>¡Excelente!</strong> Tu mensaje ha sido enviado.
+								</div>
+
+								<div class="contact-form-error alert alert-danger d-none mt-4">
+									<strong>Algo anda mal</strong> Surgió un error al enviar tu mensaje.
+									<span class="mail-error-message text-1 d-block"></span>
+								</div>
+
+								<div class="row">
+									<div class="form-group col-lg-6">
+										<label class="form-label mb-1 text-2">Nombre completo</label>
+										<input type="text" value="" data-msg-required="Por favor ingrese su nombre." maxlength="100" class="form-control text-3 h-auto py-2" name="name" required>
+										<label id="name_corr" class="text-danger d-none">Nombre no valido.</label>
+									</div>
+									<div class="form-group col-lg-6">
+										<label class="form-label mb-1 text-2">Correo electrónico</label>
+										<input type="email" value="" data-msg-required="Por favor ingrese su correo." data-msg-email="Please enter a valid email address." maxlength="100" class="form-control text-3 h-auto py-2" name="email" required>
+										<label id="email_corr" class="text-danger d-none">Correo no valido.</label>
+									</div>
+								</div>
+								<div class="row">
+									<div class="form-group col">
+										<label class="form-label mb-1 text-2">Asunto</label>
+										<input type="text" value="" data-msg-required="Por favor ingrese el asunto." maxlength="100" class="form-control text-3 h-auto py-2" name="subject" required>
+										<label id="asunt_corr" class="text-danger d-none">Asunto no valido.</label>
+									</div>
+								</div>
+								<div class="row">
+									<div class="form-group col">
+										<label class="form-label mb-1 text-2">Mensaje</label>
+										<textarea maxlength="5000" data-msg-required="Por favor ingrese el cuerpo del mensaje." rows="8" class="form-control text-3 h-auto py-2" name="message" required></textarea>
+										<label id="mensaje_corr" class="text-danger d-none">Mensaje no valido.</label>
+									</div>
+								</div>
+								<div class="row">
+									<div class="form-group col">
+										<input type="submit" value="Enviar mensaje" class="btn btn-primary btn-modern" data-loading-text="Enviando...">
+									</div>
+								</div>
+							</form>
+
+						</div>
+						<div class="col-lg-6">
+							<h4 class="pt-5">Nos gustaría <strong>atenderte</strong></h4>
+							<p class="lead text-4">Ponemos a tu disposición nuestros medios de contacto, asi como los
+								domicilios en los que podemos atenderte o bien, puedes enviar el formulario de contacto
+								y en la brevedad nos comunicaremos contigo para resolver tus dudas.</p>
+							<div class="accordion" id="accordionQuaternary">
+								<div class="card card-default">
+									<div class="card-header bg-color-primary" id="collapseQuaternaryHeadingOne">
+										<h4 class="card-title m-0">
+											<a class="accordion-toggle text-color-light" data-bs-toggle="collapse" data-bs-target="#collapseQuaternaryOne" aria-expanded="true" aria-controls="collapseQuaternaryOne">
+												Mexicali
+											</a>
+										</h4>
+									</div>
+									<div id="collapseQuaternaryOne" class="collapse show" aria-labelledby="collapseQuaternaryHeadingOne" data-bs-parent="#accordionQuaternary">
+										<div class="card-body p-3">
+											<dl>
+												<dt>Matríz</dt>
+												<ul class="fa-ul text-2">
+													<li><span class="fa-li"><i class="fa-solid fa-map-pin text-muted"></i></span>Calz.
+														Independencia S/N Col. Rivera</li>
+													<li><span class="fa-li"><i class="fa-solid fa-phone text-muted"></i></span>686 555
+														563</li>
+												</ul>
+												<dt>Centro Cívico</dt>
+												<ul class="fa-ul text-2">
+													<li><span class="fa-li"><i class="fa-solid fa-map-pin text-muted"></i></span>Calz.
+														Independencia
+														S/N Col. Centro Cívico</li>
+													<li><span class="fa-li"><i class="fa-solid fa-phone text-muted"></i></span>686 219
+														1046</li>
+												</ul>
+											</dl>
+										</div>
+									</div>
+								</div>
+								<div class="card card-default">
+									<div class="card-header bg-color-primary" id="collapseQuaternaryHeadingTwo">
+										<h4 class="card-title m-0">
+											<a class="accordion-toggle text-color-light" data-bs-toggle="collapse" data-bs-target="#collapseQuaternaryTwo" aria-expanded="false" aria-controls="collapseQuaternaryTwo">
+												Tijuana
+											</a>
+										</h4>
+									</div>
+									<div id="collapseQuaternaryTwo" class="collapse" aria-labelledby="collapseQuaternaryHeadingTwo" data-bs-parent="#accordionQuaternary">
+										<div class="card-body p-3">
+											<dl>
+												<dt>Insurgentes</dt>
+												<ul class="fa-ul text-2">
+													<li><span class="fa-li"><i class="fa-solid fa-map-pin text-muted"></i></span>Blvd.
+														Insurgentes 18137 int. 7, Col. 3ra Etapa Rio Tijuana</li>
+													<li><span class="fa-li"><i class="fa-solid fa-phone text-muted"></i></span>664 250
+														5430</li>
+												</ul>
+											</dl>
+										</div>
+									</div>
+								</div>
+								<div class="card card-default">
+									<div class="card-header bg-color-primary" id="collapseQuaternaryHeadingThree">
+										<h4 class="card-title m-0">
+											<a class="accordion-toggle text-color-light" data-bs-toggle="collapse" data-bs-target="#collapseQuaternaryThree" aria-expanded="false" aria-controls="collapseQuaternaryThree">
+												Ensenada
+											</a>
+										</h4>
+									</div>
+									<div id="collapseQuaternaryThree" class="collapse" aria-labelledby="collapseQuaternaryHeadingThree" data-bs-parent="#accordionQuaternary">
+										<div class="card-body p-3">
+											<dl>
+												<dt>Chapultepec</dt>
+												<ul class="fa-ul text-2">
+													<li><span class="fa-li"><i class="fa-solid fa-map-pin text-muted"></i></span>Calz.
+														Chapultepec 102-4, Exejido Chapultepec.</li>
+													<li><span class="fa-li"><i class="fa-solid fa-phone text-muted"></i></span>646 182
+														9944
+													</li>
+												</ul>
+											</dl>
+										</div>
+									</div>
+								</div>
+								<div class="card card-default">
+									<div class="card-header bg-color-primary" id="collapseQuaternaryHeadingFour">
+										<h4 class="card-title m-0">
+											<a class="accordion-toggle text-color-light" data-bs-toggle="collapse" data-bs-target="#collapseQuaternaryFour" aria-expanded="false" aria-controls="collapseQuaternaryFour">
+												Módulos adicionales
+											</a>
+										</h4>
+									</div>
+									<div id="collapseQuaternaryFour" class="collapse" aria-labelledby="collapseQuaternaryHeadingFour" data-bs-parent="#accordionQuaternary">
+										<div class="card-body p-3">
+											<dl>
+												<dt>Guadalupe Victoria</dt>
+												<ul class="fa-ul text-2">
+													<li><span class="fa-li"><i class="fa-solid fa-map-pin text-muted"></i></span>Av.
+														Miguel
+														Hidalgo entre 7ma y 8va. Ejido Gpe. Victoria.</li>
+													<li><span class="fa-li"><i class="fa-solid fa-phone text-muted"></i></span>646 423
+														8845
+													</li>
+												</ul>
+												<dt>Ciudad Morelos</dt>
+												<ul class="fa-ul text-2">
+													<li><span class="fa-li"><i class="fa-solid fa-map-pin text-muted"></i></span>Av
+														Leyes
+														de Reforma S/N, Cd. Morelos.</li>
+													<li><span class="fa-li"><i class="fa-solid fa-phone text-muted"></i></span>658 514
+														7364
+													</li>
+												</ul>
+												<dt>San Luis Rio Colorado</dt>
+												<ul class="fa-ul text-2">
+													<li><span class="fa-li"><i class="fa-solid fa-map-pin text-muted"></i></span>Blvd.
+														Luis Donaldo Colosio S/N, Col. Rio.</li>
+													<li><span class="fa-li"><i class="fa-solid fa-phone text-muted"></i></span>653 127
+														4548</li>
+												</ul>
+											</dl>
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</section>
+
+			<section class="section section-height-3 bg-primary position-relative z-index-1 border-0 m-0">
+				<div class="container">
+					<div class="row align-items-center gy-5">
+						<div class="col-xl-7 text-center text-xl-start">
+							<h3 class="text-color-light font-weight-medium text-4 mb-1">¿NECESITAS ATENCIÓN
+								PERSONALIZADA?</h3>
+							<h2 class="text-color-light font-weight-bold mb-1">Contáctanos y con gusto te atenderemos
+							</h2>
+							<p class="text-color-light font-weight-semibold opacity-8 text-4 mb-0">Nuestros agentes
+								resolverán todas tus dudas.</p>
+						</div>
+						<div class="col-xl-5">
+							<div class="d-flex flex-column flex-sm-row align-items-center justify-content-center justify-content-xl-end">
+								<div class="d-inline-flex align-items-center mb-4 mb-sm-0">
+									<i class="icons icon-phone text-7 text-color-light position-relative bottom-2"></i>
+									<div class="ps-2">
+										<span class="d-block text-2 font-weight-medium text-color-light line-height-1">Teléfono</span>
+										<strong class="text-4"><a href="tel:+1234567890" class="text-color-light text-decoration-none">686 248 9684</a></strong>
+									</div>
+								</div>
+								<div class="custom-divider px-3 me-3 ms-5-5 d-none d-sm-block"></div>
+								<a href="tel:6862489684" class="btn btn-light btn-rounded font-weight-bold border-0 text-color-dark text-3 px-5 btn-py-3">Whatsapp</a>
+							</div>
+						</div>
+					</div>
+				</div>
+			</section>
+
+		</div>
+
+		<footer id="footer" class="position-relative bg-transparent border-top-0 mt-0">
+			<div class="footer-copyright bg-transparent">
+				<div class="container">
+					<div class="row">
+						<div class="col mt-4 mb-4">
+							<p class="text-center text-3 mb-0">Proteges Seguros © 2022. Algunos derechos reservados.</p>
+						</div>
+					</div>
+				</div>
+			</div>
+		</footer>
+	</div>
+
+	<!-- Vendor -->
+	<script src="vendor/jquery/jquery.min.js"></script>
+	<script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+	<script>
+		var mensaje = '<?php echo isset($_GET['status']) && $_GET['status'] == 1 ? "success" : "" ?>';
+		if (mensaje !== '') {
+			$(".contact-form-success").removeClass("d-none");
+			setTimeout(function() {
+				document.location.replace('contacto.php');
+			}, 5000);
+		}
+
+		var errint = '<?php echo isset($_GET['status']) && $_GET['status'] == 6 ? "errint" : "" ?>';
+		if (errint !== '') {
+			$(".contact-form-error").removeClass("d-none")
+			setTimeout(function() {
+				document.location.replace('contacto.php');
+			}, 5000);
+		}
+
+		var err = '<?php echo isset($_GET['status']) && $_GET['status'] == 2 ? "err" : "" ?>';
+		if (err !== '') {
+			$("#name_corr").removeClass("d-none")
+			setTimeout(function() {
+				document.location.replace('contacto.php');
+			}, 5000);
+		}
+
+		err = '<?php echo isset($_GET['status']) && $_GET['status'] == 3 ? "err" : "" ?>';
+		if (err !== '') {
+			$("#email_corr").removeClass("d-none")
+			setTimeout(function() {
+				document.location.replace('contacto.php');
+			}, 5000);
+		}
+
+		err = '<?php echo isset($_GET['status']) && $_GET['status'] == 4 ? "err" : "" ?>';
+		if (err !== '') {
+			$("#asunt_corr").removeClass("d-none")
+			setTimeout(function() {
+				document.location.replace('contacto.php');
+			}, 5000);
+		}
+		err = '<?php echo isset($_GET['status']) && $_GET['status'] == 5 ? "err" : "" ?>';
+		if (err !== '') {
+			$("#mensaje_corr").removeClass("d-none")
+			setTimeout(function() {
+				document.location.replace('contacto.php');
+			}, 5000);
+		}
+	</script>
+
+</body>
+
+</html>
