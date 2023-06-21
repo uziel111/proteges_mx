@@ -132,7 +132,7 @@
 														</a>
 													</li>
 													<li>
-														<a class="nav-link" href="contacto.html">
+														<a class="nav-link" href="contacto.php">
 															Contacto
 														</a>
 													</li>
