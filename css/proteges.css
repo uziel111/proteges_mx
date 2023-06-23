@@ -303,3 +303,18 @@
 .custom-form-style-1 textarea.form-control {
 		height: auto;
 }
+
+@media (max-width: 992px) {
+	#welcome {
+		text-align: center;
+	}
+	#welcome .list-unstyled {
+margin-top: 20px;
+	}
+	#welcome .list-unstyled > li {
+		left: 0 !important;
+		padding-left: 0 !important;
+		margin-left: 0 !important;
+	}
+}
+

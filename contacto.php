@@ -82,7 +82,7 @@
 							</ul>
 							<div class="header-nav-features">
 								<a href="tel:0123456789" class="d-flex align-items-center text-decoration-none text-color-dark text-color-hover-primary font-weight-semibold ms-1 me-3">
-									<i class="fa-solid fa-phone text-muted me-2"></i> 686 248 9684
+									<i class="fa-solid fa-phone text-muted me-2"></i> 686 555 5630
 								</a>
 							</div>
 						</div>
@@ -140,7 +140,7 @@
 											</nav>
 										</div>
 									</div>
-									<a href="tel:6862489684" class="position-relative top-5 btn btn-outline btn-rounded btn-secondary text-2 font-weight-bold text-uppercase px-5 btn-py-2 mb-3">Whatsapp</a>
+									<a target="_blank"  href="https://wa.me/16862489684" class="position-relative top-5 btn btn-outline btn-rounded btn-secondary text-2 font-weight-bold text-uppercase px-5 btn-py-2 mb-3">Whatsapp</a>
 									<button class="btn header-btn-collapse-nav" data-bs-toggle="collapse" data-bs-target=".header-nav-main nav">
 										<i class="fas fa-bars"></i>
 									</button>
@@ -360,11 +360,11 @@
 									<i class="icons icon-phone text-7 text-color-light position-relative bottom-2"></i>
 									<div class="ps-2">
 										<span class="d-block text-2 font-weight-medium text-color-light line-height-1">Teléfono</span>
-										<strong class="text-4"><a href="tel:+1234567890" class="text-color-light text-decoration-none">686 248 9684</a></strong>
+										<strong class="text-4"><a href="tel:+1234567890" class="text-color-light text-decoration-none">686 555 5630</a></strong>
 									</div>
 								</div>
 								<div class="custom-divider px-3 me-3 ms-5-5 d-none d-sm-block"></div>
-								<a href="tel:6862489684" class="btn btn-light btn-rounded font-weight-bold border-0 text-color-dark text-3 px-5 btn-py-3">Whatsapp</a>
+								<a target="_blank"  href="https://wa.me/16862489684" class="btn btn-light btn-rounded font-weight-bold border-0 text-color-dark text-3 px-5 btn-py-3">Whatsapp</a>
 							</div>
 						</div>
 					</div>
