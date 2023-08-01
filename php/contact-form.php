@@ -141,7 +141,8 @@ try
 		$mail->AddReplyTo($_POST['email'], $fromName);
 	}
 
-	$mail->IsHTML(true);                                       // Set email format to HTML
+	$mail->IsHTML(true);
+	// Set email format to HTML
 
 	$mail->CharSet = 'UTF-8';
 
