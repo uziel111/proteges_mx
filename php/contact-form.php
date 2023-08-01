@@ -120,8 +120,8 @@ try
 	$mail->IsSMTP();                                         // Set mailer to use SMTP
 	$mail->Host = 'smtp.gmail.com';				       // Specify main and backup server
 	$mail->SMTPAuth = true;                                  // Enable SMTP authentication
-	$mail->Username = 'info@segurosproteges.com';                    // SMTP username
-	$mail->Password = '9U36nc3e	';                              // SMTP password
+	$mail->Username = 'infop@segurosproteges.com';                    // SMTP username
+	$mail->Password = '123456	';                              // SMTP password
 	$mail->SMTPSecure = 'tls';                               // Enable encryption, 'ssl' also accepted
 	$mail->Port = 587;   								       // TCP port to connect to
 
